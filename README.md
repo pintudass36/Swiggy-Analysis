@@ -16,17 +16,17 @@ Explore the data to understand relationships between different variables and dis
 **Metadata:**
 
 Below is the description of the columns in the dataset:
-Column Name	Description
-ID	: Unique identifier for each restaurant
-Area	: The area in which the restaurant is located
-City	: The city where the restaurant is located
-Restaurant:	Name of the restaurant
-Price	: Avg price of meals
-Avg ratings	: Avg ratings given by customers
-Food type:	Types of food offered
-Address	: Full address of the restaurant
-Delivery time	: Average time taken for delivery
-Cullect of data: Kaggle ( Swiggy Restuarants dataset )
+Column Name	: Description.
+ID	: Unique identifier for each restaurant.
+Area	: The area in which the restaurant is located.
+City	: The city where the restaurant is located.
+Restaurant:	Name of the restaurant.
+Price	: Avg price of meals.
+Avg ratings	: Avg ratings given by customers.
+Food type:	Types of food offered.
+Address	: Full address of the restaurant.
+Delivery time	: Average time taken for delivery.
+Cullect of data: Kaggle ( Swiggy Restuarants dataset ).
 
 **Tools Used**
 Power BI: For data smoothly analysis.
